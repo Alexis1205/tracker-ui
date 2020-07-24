@@ -1,0 +1,4 @@
+// Changes to keep only the base
+{
+  "extends": "airbnb"
+}
